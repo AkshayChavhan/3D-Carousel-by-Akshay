@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: antiquewhite;
+   
+}
+
+.carousel{
+    margin-bottom: 105px;
+    height: 440px;
+   
+}
+
+#bottm-data{
+    display: flex;
+    flex-direction: row;
+    padding-top: 80px;
+    padding-bottom: 20px;
+    justify-content: center;
+    background-color:#e2e2f196;
+    height: 246px;;
+}
+
+.list{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: stretch;
+    /* flex-wrap: nowrap; */
+    margin-left: 26px;  
+    text-decoration: none;
+}
